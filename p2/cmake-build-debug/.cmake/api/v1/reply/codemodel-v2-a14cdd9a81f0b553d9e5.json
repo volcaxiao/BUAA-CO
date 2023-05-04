@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "p2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "conv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conv-Debug-01181149d22672dedb24.json",
+					"name" : "conv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "factorial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-factorial-Debug-2ff76298a39bc5871b56.json",
+					"name" : "factorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "judge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-judge-Debug-5691cc5868b5ce63bc6c.json",
+					"name" : "judge",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matrix-Debug-aa937474897a66bff8de.json",
+					"name" : "matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "maze::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maze-Debug-745c9d8aaa9d4eec806d.json",
+					"name" : "maze",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "maze_gf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maze_gf-Debug-6ed53335fed930f3472d.json",
+					"name" : "maze_gf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/co_file/p2/cmake-build-debug",
+		"source" : "D:/co_file/p2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
