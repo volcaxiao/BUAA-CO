@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/media/shared/p1/6_BlockChecker/BlockChecker/BlockCheck_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="BlockCheck_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/BlockCheck_tb/result" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">result</obj_property>
+      <obj_property name="ObjectShortName">result</obj_property>
+   </wvobject>
+   <wvobject fp_name="/BlockCheck_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/BlockCheck_tb/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/BlockCheck_tb/in" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">in[7:0]</obj_property>
+      <obj_property name="ObjectShortName">in[7:0]</obj_property>
+      <obj_property name="Radix">ASCIIRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/BlockCheck_tb/uut/str" type="array" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">str[55:0]</obj_property>
+      <obj_property name="ObjectShortName">str[55:0]</obj_property>
+      <obj_property name="label">str[55:0]</obj_property>
+      <obj_property name="Radix">ASCIIRADIX</obj_property>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[55]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[55]</obj_property>
+         <obj_property name="ObjectShortName">str[55]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[54]" type="logic" db_ref_id="1">
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="ElementShortName">[54]</obj_property>
+         <obj_property name="ObjectShortName">str[54]</obj_property>
+         <obj_property name="label">[54]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[53]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[53]</obj_property>
+         <obj_property name="ObjectShortName">str[53]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[52]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[52]</obj_property>
+         <obj_property name="ObjectShortName">str[52]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[51]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[51]</obj_property>
+         <obj_property name="ObjectShortName">str[51]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[50]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[50]</obj_property>
+         <obj_property name="ObjectShortName">str[50]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[49]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[49]</obj_property>
+         <obj_property name="ObjectShortName">str[49]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[48]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[48]</obj_property>
+         <obj_property name="ObjectShortName">str[48]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[47]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[47]</obj_property>
+         <obj_property name="ObjectShortName">str[47]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[46]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[46]</obj_property>
+         <obj_property name="ObjectShortName">str[46]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[45]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[45]</obj_property>
+         <obj_property name="ObjectShortName">str[45]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[44]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[44]</obj_property>
+         <obj_property name="ObjectShortName">str[44]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[43]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[43]</obj_property>
+         <obj_property name="ObjectShortName">str[43]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[42]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[42]</obj_property>
+         <obj_property name="ObjectShortName">str[42]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[41]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[41]</obj_property>
+         <obj_property name="ObjectShortName">str[41]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[40]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[40]</obj_property>
+         <obj_property name="ObjectShortName">str[40]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[39]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[39]</obj_property>
+         <obj_property name="ObjectShortName">str[39]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[38]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[38]</obj_property>
+         <obj_property name="ObjectShortName">str[38]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[37]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[37]</obj_property>
+         <obj_property name="ObjectShortName">str[37]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[36]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[36]</obj_property>
+         <obj_property name="ObjectShortName">str[36]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[35]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[35]</obj_property>
+         <obj_property name="ObjectShortName">str[35]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[34]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[34]</obj_property>
+         <obj_property name="ObjectShortName">str[34]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[33]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[33]</obj_property>
+         <obj_property name="ObjectShortName">str[33]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[32]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[32]</obj_property>
+         <obj_property name="ObjectShortName">str[32]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[31]</obj_property>
+         <obj_property name="ObjectShortName">str[31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[30]</obj_property>
+         <obj_property name="ObjectShortName">str[30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[29]</obj_property>
+         <obj_property name="ObjectShortName">str[29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[28]</obj_property>
+         <obj_property name="ObjectShortName">str[28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[27]</obj_property>
+         <obj_property name="ObjectShortName">str[27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[26]</obj_property>
+         <obj_property name="ObjectShortName">str[26]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[25]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[25]</obj_property>
+         <obj_property name="ObjectShortName">str[25]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[24]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[24]</obj_property>
+         <obj_property name="ObjectShortName">str[24]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[23]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[23]</obj_property>
+         <obj_property name="ObjectShortName">str[23]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[22]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[22]</obj_property>
+         <obj_property name="ObjectShortName">str[22]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[21]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[21]</obj_property>
+         <obj_property name="ObjectShortName">str[21]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[20]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[20]</obj_property>
+         <obj_property name="ObjectShortName">str[20]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[19]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[19]</obj_property>
+         <obj_property name="ObjectShortName">str[19]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[18]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[18]</obj_property>
+         <obj_property name="ObjectShortName">str[18]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[17]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[17]</obj_property>
+         <obj_property name="ObjectShortName">str[17]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[16]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[16]</obj_property>
+         <obj_property name="ObjectShortName">str[16]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[15]</obj_property>
+         <obj_property name="ObjectShortName">str[15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[14]</obj_property>
+         <obj_property name="ObjectShortName">str[14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[13]</obj_property>
+         <obj_property name="ObjectShortName">str[13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[12]</obj_property>
+         <obj_property name="ObjectShortName">str[12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[11]</obj_property>
+         <obj_property name="ObjectShortName">str[11]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[10]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[10]</obj_property>
+         <obj_property name="ObjectShortName">str[10]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[9]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9]</obj_property>
+         <obj_property name="ObjectShortName">str[9]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[8]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8]</obj_property>
+         <obj_property name="ObjectShortName">str[8]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[7]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7]</obj_property>
+         <obj_property name="ObjectShortName">str[7]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[6]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6]</obj_property>
+         <obj_property name="ObjectShortName">str[6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[5]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5]</obj_property>
+         <obj_property name="ObjectShortName">str[5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[4]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4]</obj_property>
+         <obj_property name="ObjectShortName">str[4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3]</obj_property>
+         <obj_property name="ObjectShortName">str[3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2]</obj_property>
+         <obj_property name="ObjectShortName">str[2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1]</obj_property>
+         <obj_property name="ObjectShortName">str[1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/BlockCheck_tb/uut/str[0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0]</obj_property>
+         <obj_property name="ObjectShortName">str[0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/BlockCheck_tb/uut/cnt" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">cnt[31:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/BlockCheck_tb/uut/status" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">status[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status[31:0]</obj_property>
+   </wvobject>
+</wave_config>

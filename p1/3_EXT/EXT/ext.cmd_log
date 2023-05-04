@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/media/shared/p1/3_EXT/EXT/ext.xst" -ofn "/media/shared/p1/3_EXT/EXT/ext.syr" 
+xst -intstyle ise -ifn "/media/shared/p1/3_EXT/EXT/ext.xst" -ofn "/media/shared/p1/3_EXT/EXT/ext.syr" 

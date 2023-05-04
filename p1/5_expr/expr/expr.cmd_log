@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "/media/shared/p1/5_expr/expr/expr.xst" -ofn "/media/shared/p1/5_expr/expr/expr.syr" 
+xst -intstyle ise -ifn "/media/shared/p1/5_expr/expr/expr.xst" -ofn "/media/shared/p1/5_expr/expr/expr.syr" 
+xst -intstyle ise -ifn "/media/shared/p1/5_expr/expr/expr.xst" -ofn "/media/shared/p1/5_expr/expr/expr.syr" 
+xst -intstyle ise -ifn "/media/shared/p1/5_expr/expr/expr.xst" -ofn "/media/shared/p1/5_expr/expr/expr.syr" 

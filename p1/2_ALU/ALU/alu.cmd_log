@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/media/shared/p1/2_ALU/ALU/alu.xst" -ofn "/media/shared/p1/2_ALU/ALU/alu.syr" 

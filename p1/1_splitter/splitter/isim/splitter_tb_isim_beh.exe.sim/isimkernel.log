@@ -1,0 +1,28 @@
+Command line:
+   splitter_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  38559
+
+Wed Oct  5 20:55:14 2022
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 185.557 Meg
+
+ Total Signals          : 22
+ Total Nets             : 77
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 12
+ Total Traceable Variables  : 19
+ Total Scalar Nets and Variables : 189
+
+ Total Simulation Time: 0.04 sec
+
+ Current Memory Usage: 261.059 Meg
+
+Wed Oct  5 20:58:07 2022
+
