@@ -1,0 +1,44 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -nodebug -prj mips.prj -o mips.elf mips_tb 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Analyzing Verilog file "/media/shared/co_file/p4/version1/MIPS-CPU/ALU.v" into library work
+Analyzing Verilog file "/media/shared/co_file/p4/version1/MIPS-CPU/ctrl.v" into library work
+Analyzing Verilog file "/media/shared/co_file/p4/version1/MIPS-CPU/DM.v" into library work
+Analyzing Verilog file "/media/shared/co_file/p4/version1/MIPS-CPU/EXT.v" into library work
+Analyzing Verilog file "/media/shared/co_file/p4/version1/MIPS-CPU/IM.v" into library work
+Analyzing Verilog file "/media/shared/co_file/p4/version1/MIPS-CPU/InstructionSplitter.v" into library work
+Analyzing Verilog file "/media/shared/co_file/p4/version1/MIPS-CPU/mips.v" into library work
+Analyzing Verilog file "/media/shared/co_file/p4/version1/MIPS-CPU/mips_tb.v" into library work
+Analyzing Verilog file "/media/shared/co_file/p4/version1/MIPS-CPU/MUX.v" into library work
+Analyzing Verilog file "/media/shared/co_file/p4/version1/MIPS-CPU/NPC.v" into library work
+Analyzing Verilog file "/media/shared/co_file/p4/version1/MIPS-CPU/PC.v" into library work
+Analyzing Verilog file "/media/shared/co_file/p4/version1/MIPS-CPU/RF.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "/media/shared/co_file/p4/version1/MIPS-CPU/mips.v" Line 84: Port in3 is not connected to this instance
+WARNING:HDLCompiler:1016 - "/media/shared/co_file/p4/version1/MIPS-CPU/mips.v" Line 92: Port in3 is not connected to this instance
+Completed static elaboration
+Fuse Memory Usage: 82828 KB
+Fuse CPU Usage: 400 ms
+Compiling module PC
+Compiling module MUX2to1_26
+Compiling module NPC
+Compiling module IM
+Compiling module InstructionSplitter
+Compiling module MUX4to1_5
+Compiling module MUX4to1
+Compiling module RF
+Compiling module EXT
+Compiling module MUX2to1
+Compiling module ALU
+Compiling module DM
+Compiling module ctrl
+Compiling module mips
+Compiling module mips_tb
+Time Resolution for simulation is 1ps.
+Compiled 15 Verilog Units
+Built simulation executable mips.elf
+Fuse Memory Usage: 86160 KB
+Fuse CPU Usage: 440 ms
+GCC CPU Usage: 810 ms

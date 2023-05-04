@@ -1,0 +1,1 @@
+-nodebug -prj "mips.prj" -o "mips.elf" "mips_tb" 
